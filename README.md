@@ -46,13 +46,13 @@ npm run dev
 Now open: http://localhost:3000
  🚀
 
-## 🎯 Current Status
-✅ Frontend UI completed
-🔄 Backend integration in progress
+🎯 Current Status
+✅ Frontend UI completed,
+🔄 Backend integration in progress,
 ⏳ Authentication & payment system coming soon
 
 👨‍💻 Author
-## Partho Kumar
+Partho Kumar
 Founder & Developer of Solara
 
 📄 License
@@ -60,5 +60,4 @@ Founder & Developer of Solara
 This project is licensed under the MIT License.
 
 💡 Vision
-
 Solara aims to provide a premium fashion shopping experience that is simple, fast, and elegant.
