@@ -25,8 +25,6 @@
 ---
 
 ## 📁 Project Structure
-
-```bash
 solara/
 ├── app/
 ├── components/
@@ -34,6 +32,7 @@ solara/
 ├── public/
 └── styles/
 
+---
 
 ## 🛠️ Getting Started
 1. Clone the repository
